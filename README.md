@@ -75,4 +75,4 @@ This tool is intended for educational purposes only. Unauthorized access to some
 
 
 
-**Follow Me on [LinkedIn](https://www.linkedin.com/in/yourprofile/) | Check the Code on [GitHub](https://github.com/YourUsername/Browser-Password-Extractor)**
+**Follow Me on [LinkedIn](https://www.linkedin.com/in/raul-yarmemmedov/) | Check the Code on [GitHub](https://github.com/cyberprogramming1/Browser-Password-Extractor)**
