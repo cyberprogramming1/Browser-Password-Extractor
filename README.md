@@ -1,4 +1,6 @@
 
+# Note: Due to the potential for misuse, I can not share this source code publicly on GitHub or LinkedIn.
+
 # 🛡️ Browser Password Extractor and Cleaner
 
 ![Project Logo](https://img.shields.io/badge/Browser-Password%20Extractor-blueviolet)  
@@ -38,7 +40,7 @@ The script automatically installs dependencies on the first run. Follow these st
 
 1. **Run the Script**:  
    ```bash
-   python main.py
+   python Browser-Password-Extractor.py
    ```
    
 2. **Extract and View Passwords**:  
@@ -72,6 +74,10 @@ def delete_passwords():
 
 ## 📜 Disclaimer
 This tool is intended for educational purposes only. Unauthorized access to someone else’s data is illegal and unethical. Always obtain permission before attempting to access or manipulate any data that isn't your own.
+
+# Important Note
+1. Ethical Use: This script should be used responsibly and ethically. Ensure you have permission to access the password data and do not use this script for malicious purposes.
+2. Data Loss Warning: Deleting passwords is irreversible. Use caution when using the delete feature.
 
 
 
