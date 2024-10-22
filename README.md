@@ -9,11 +9,10 @@ A Python tool that extracts and optionally deletes saved passwords from popular 
 ## 📋 Table of Contents
 - [Features](#-features)
 - [Requirements](#-requirements)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Demo](#-demo)
+- [Installation](#-installation) # I don't add this part
+- [Usage](#-usage)  # I don't add this part
 - [Disclaimer](#-disclaimer)
-- [License](#-license)
+
 
 ## ✨ Features
 - Extract saved passwords from Google Chrome, Edge, and Firefox.
@@ -26,27 +25,10 @@ A Python tool that extracts and optionally deletes saved passwords from popular 
 - Compatible with Windows OS.
 - **Google Chrome**, **Microsoft Edge**, or **Mozilla Firefox** installed.
 
-## 📦 Installation
-Clone this repository and navigate to the project folder:
-```bash
-git clone https://github.com/cyberprogramming1/Browser-Password-Extractor.git
-cd Browser-Password-Extractor
-```
-
-Ensure Python is installed and available in your system's PATH.
-
-## 🚀 Usage
-The script automatically installs dependencies on the first run. Follow these steps:
-
-1. **Run the Script**:  
-   ```bash
-   python Browser-Password-Extractor.py
-   ```
-   
-2. **Extract and View Passwords**:  
+1. **Extract and View Passwords**:  
    The passwords will be saved to a `chrome_data.txt` file.
 
-3. **Delete All Passwords (Optional)**:  
+2. **Delete All Passwords (Optional)**:  
    Follow the on-screen instructions to delete passwords after extraction.
 
 ## 🛠️ Code Overview
